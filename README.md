@@ -1,0 +1,1 @@
+a simple Notepad application to create, edir,and save text file. it has basic features like creating new files. opening existing files, editing text, and saving changes. Built for beginners to practice programming and GUI development
